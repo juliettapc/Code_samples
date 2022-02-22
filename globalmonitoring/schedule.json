@@ -1,7 +1,0 @@
-[
-  {
-    "cron_schedule": "0 0 12 1 * ?",
-    "project.name": "CRM_Global_Monitoring",
-    "flow.name": "global_monitoring"
-  }
-]
